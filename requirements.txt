@@ -5,4 +5,6 @@ pytest
 opencv-python
 Pillow
 python-dotenv
-typing-extensions 
+typing-extensions
+openai>=1.0.0
+python-dotenv 

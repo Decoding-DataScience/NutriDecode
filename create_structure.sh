@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Create base directories
-mkdir -p src/{app,components,lib,types,utils,hooks}
-mkdir -p public/{images,icons}
+mkdir -p nutridecode-frontend/src/components/ui
+mkdir -p nutridecode-frontend/src/lib
 
 # Create essential component directories
 mkdir -p src/components/{ui,layout,shared}
