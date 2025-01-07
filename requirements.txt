@@ -1,0 +1,8 @@
+pillow-heif
+numpy
+vision-agent
+pytest
+opencv-python
+Pillow
+python-dotenv
+typing-extensions 
